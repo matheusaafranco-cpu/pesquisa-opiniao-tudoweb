@@ -36,32 +36,30 @@ Abaixo estão registradas as capturas de tela demonstrando o funcionamento dos c
 ### Entrevistados 1 a 5
 | Entrevistado / Teste | Print da Execução |
 | :---: | :--- |
-| **01** | ![Print Entrevistado 1](print1.png) |
-| **02** | ![Print Entrevistado 2](print2.png) |
-| **03** | ![Print Entrevistado 3](print3.png) |
-| **04** | ![Print Entrevistado 4](print4.png) |
-| **05** | ![Print Entrevistado 5](print5.png) |
+| **01** | ![Print Entrevistado 1](prints/print1.png) |
+| **02** | ![Print Entrevistado 2](prints/print2.png) |
+| **03** | ![Print Entrevistado 3](prints/print3.png) |
+| **04** | ![Print Entrevistado 4](prints/print4.png) |
+| **05** | ![Print Entrevistado 5](prints/print5.png) |
 
 ### Entrevistados 6 a 10
 | Entrevistado / Teste | Print da Execução |
 | :---: | :--- |
-| **06** | ![Print Entrevistado 6](print6.png) |
-| **07** | ![Print Entrevistado 7](print7.png) |
-| **08** | ![Print Entrevistado 8](print8.png) |
-| **09** | ![Print Entrevistado 9](print9.png) |
-| **10** | ![Print Entrevistado 10](print10.png) |
+| **06** | ![Print Entrevistado 6](prints/print6.png) |
+| **07** | ![Print Entrevistado 7](prints/print7.png) |
+| **08** | ![Print Entrevistado 8](prints/print8.png) |
+| **09** | ![Print Entrevistado 9](prints/print9.png) |
+| **10** | ![Print Entrevistado 10](prints/print10.png) |
 
 ---
 
 ### 📊 Resultado Final e Encerramento da Pesquisa
 
-![Print do Resultado Final](final.png)
+![Print do Resultado Final](prints/final.png)
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🔗 Link do Repositório
 
-1. Certifique-se de ter o Python 3 instalado na sua máquina.
-2. Clone este repositório ou faça o download dos arquivos:
-   ```bash
-   git clone (https://github.com/matheusaafranco-cpu/pesquisa-opiniao-tudoweb)
+Acesse o projeto completo através do link:
+https://github.com/matheusaafranco-cpu/pesquisa-opiniao-tudoweb
